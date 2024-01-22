@@ -1,1 +1,1 @@
-# Prediction_projects
+# Disease_Prediction_project
